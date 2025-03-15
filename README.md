@@ -2,7 +2,7 @@
 👀 I’m interested in QA, Machine Learning, and DevOps, areas where I excel academically and have participated in university projects.  
 🌱 I’m currently learning and expanding my knowledge in Software Engineering, with a focus on front-end, back-end, and cloud technologies.  
 💞️ I’m looking to collaborate on innovative projects that challenge my skills and allow me to grow professionally.  
-📫 How to reach me: https://www.linkedin.com/in/jo%C3%A3o-pedro-kraide-m%C3%A1ximo-ba0a89234/ 
+📫 How to reach me: https://www.linkedin.com/in/jo%C3%A3o-pedro-kraide-m%C3%A1ximo-ba0a89234/ <br>
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I’m fluent in English and have basic knowledge of Spanish!  
 
