@@ -28,11 +28,3 @@ I have a strong interest in QA, Machine Learning, and DevOps, areas where I’ve
 </div>
 
 
-<br>
-<picture>
-  <div style="text-align: center;">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoKraideM/JoaoKraideM/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoKraideM/JoaoKraideM/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoaoKraideM/JoaoKraideM/output/github-contribution-grid-snake.svg">
-  </div>
-</picture>
