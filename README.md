@@ -16,7 +16,7 @@ I have a strong interest in QA, Machine Learning, and DevOps, areas where I’ve
 - **Python**: Experienced  
 - **Java**: Intermediate  
 - **C#**: Beginner  
-- **SQL**: Beginner  
+- **SQL**: Intermediate   
 
 ---
 ## • 🍂 GitHub Stats:
